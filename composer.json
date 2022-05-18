@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "pheromone/phpcs-security-audit": "2.0.1",
+        "dealerdirect/phpcodesniffer-composer-installer": "0.7.2"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
